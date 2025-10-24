@@ -1,11 +1,12 @@
-De wereld van The Witcher is een duister en magisch universum, vol met mysterieuze wezens, morele dilemma’s en oude legendes. Centraal staat Geralt van Rivia, een “witcher” — een gemuteerde monsterjager die zijn diensten aanbiedt aan wie kan betalen. In een wereld waar mensen vaak erger zijn dan monsters, moet Geralt zijn eigen pad kiezen tussen goed en kwaad.
-Deze Wiki is bedoeld als een uitgebreide gids voor iedereen die meer wil weten over de rijke wereld die is ontstaan uit de boeken van Andrzej Sapkowski, de populaire videogames van CD Projekt Red en de Netflix-serie.
+# 🐺 Welkom in de Wereld van *The Witcher*
 
-Hier vind je onder andere:
-🗺️ Informatie over de continenten, koninkrijken en steden
-⚔️ Uitleg over de Witchers, hun training en vaardigheden
-👹 Een encyclopedie van monsters en magische wezens
-💫 Beschrijving van tovenaars, magiërs en hun krachten
-📖 Belangrijke gebeurtenissen en tijdlijnen
+De wereld van *The Witcher* is een duister en betoverend universum vol met monsters, magie en morele dilemma’s. In het midden van dit alles staat **Geralt van Rivia**, een getrainde Witcher die jacht maakt op dodelijke wezens — en soms op zijn eigen menselijkheid.
 
-Of je nu een nieuwe reiziger bent in dit universum of een ervaren Witcher-fan — deze Wiki helpt je om de duistere wereld van The Witcher beter te begrijpen.
+Deze Wiki is jouw gids door deze wereld, gebaseerd op de boeken van **Andrzej Sapkowski**, de bekroonde **games** van CD Projekt Red en de **Netflix-serie**.
+
+## 🌍 Wat je hier vindt
+- [Personages](personages.md) — Ontmoet de helden, schurken en alles daartussen.  
+- [Verhaal](verhaal.md) — Lees over de belangrijkste gebeurtenissen in de Witcher-saga.  
+- [Locaties](locaties.md) — Ontdek de koninkrijken, dorpen en wilde gebieden van het Continent.
+
+Of je nu een beginnende reiziger bent of een doorgewinterde Witcher, deze Wiki helpt je de mysteries van deze wereld te ontrafelen.
