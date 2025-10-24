@@ -1,0 +1,1 @@
+Mijn naam is Taspinar Batuhan. Ik ben 22 jaar oud, en studeer aan AP hogeschool, Programmeren graduaat, mijn hobby's zijn gym, voetbal en zwemmen, ik hou van eten, vooral nieuwe dingen.
